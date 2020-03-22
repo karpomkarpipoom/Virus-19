@@ -4,27 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="1894.3">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 45.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e; background-color: #ffffff}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 45.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e; min-height: 54.0px}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e; background-color: #ffffff}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e; min-height: 17.0px}
-    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #4e4e4e; -webkit-text-stroke: #4e4e4e}
-    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #3671ff; -webkit-text-stroke: #3671ff}
-    li.li7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #3671ff; -webkit-text-stroke: #3671ff; background-color: #ffffff}
-    li.li8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Helvetica; color: #4e4e4e}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; background-color: #ffffff}
-    span.s3 {background-color: #ffffff; -webkit-text-stroke: 0px #4e4e4e}
-    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #3671ff}
-    span.s5 {-webkit-text-stroke: 0px #4e4e4e}
-    span.s6 {background-color: #ffffff}
-    ul.ul1 {list-style-type: disc}
-  </style>
 </head>
 <body>
 <p class="p1"><span class="s1">Privacy Policy</span></p>
@@ -75,6 +56,6 @@
 <p class="p4"><span class="s1">I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</span></p>
 <p class="p5"><span class="s1"></span><br></p>
 <p class="p3"><span class="s2"><b>Contact Us</b></span></p>
-<p class="p3"><span class="s2">If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at karpomkarpipoom@gmail.com.</span></p>
+<p class="p3"><span class="s2">If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a href="mailto:karpomkarpipoom@gmail.com"> Karpom Karpipoom </a></span></p>
 </body>
 </html>
