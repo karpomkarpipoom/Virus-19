@@ -1,5 +1,4 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +7,7 @@
   <meta name="CocoaVersion" content="1894.3">
 </head>
 <body>
-<p class="p1"><span class="s1">Privacy Policy</span></p>
+<h1><p class="p1"><span class="s1">Virus 19 Privacy Policy</span></p></h1>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p3"><span class="s2">BALAMURUGAN R built the Virus 19 app as a Free app. This SERVICE is provided by BALAMURUGAN R at no cost and is intended for use as is.</span></p>
 <p class="p3"><span class="s2">This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</span></p>
